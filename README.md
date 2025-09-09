@@ -24,4 +24,4 @@
 1. 📂 Clone this repo  
    ```bash
    git clone https://github.com/Muhammad-Usman2004/News-Website.git
-```
+   ```
